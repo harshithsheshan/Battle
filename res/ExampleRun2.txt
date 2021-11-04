@@ -1,0 +1,1201 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -jar /Users/hs/IdeaProjects/Battle/out/artifacts/Battle_jar/Battle.jar
+Welcome to the game of Battle
+
+Battle without gears and weapons
+
+
+
+Player 1: Stats
+Tyrion Lannister
+ strength= 9
+ constitution= 12
+ dexterity= 10
+ charisma= 14
+
+Player 2: Stats
+Jaime Lannister
+ strength= 12
+ constitution= 10
+ dexterity= 14
+ charisma= 8
+Tyrion Lannister gets to strike First
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 1
+
+Player 1: Health	19
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 2
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 3
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 4
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 5
+
+Player 1: Health	14
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 6
+
+Player 1: Health	11
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 7
+
+Player 1: Health	9
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 8
+
+Player 1: Health	7
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 9
+
+Player 1: Health	5
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 10
+
+Player 1: Health	3
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 11
+
+Player 1: Health	1
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+Jaime Lannister Won the Match
+
+
+Player stats before equipping with addons
+
+Player 1: Stats
+ Sansa Stark
+ strength= 9
+ constitution= 12
+ dexterity= 10
+ charisma= 14
+
+Player 2: Stats
+Arya Stark
+ strength= 12
+ constitution= 10
+ dexterity= 14
+ charisma= 8
+
+After Equipping
+
+
+Equipment used by Player 1
+
+ Addon Sun Hat	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Latte	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Pepsi	 changeStrength= -4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Chai	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coco	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coco	 changeStrength= 0	 changeConstitution= -4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 0	 changeConstitution= -2	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 1
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= -1
+
+ Addon Orange Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Brown Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon Blue Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Clogs	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+Equipment used by Player 2
+
+ Addon Cloche Hat	 changeStrength= 0	 changeConstitution= 2	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Soup	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Ice Tea	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coco	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coke	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Soup	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= -4
+
+ Addon Coffee	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= -4
+
+ Addon Coke	 changeStrength= 0	 changeConstitution= -4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= -1	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 1 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon Slide Sandals	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 3 	 changeCharisma= 0
+
+Players Start with the following stats
+
+Player 1: Stats
+ Sansa Stark
+ strength= 15
+ constitution= 10
+ dexterity= 14
+ charisma= 18
+Weapon Damage= 6
+
+Player 2: Stats
+Arya Stark
+ strength= 20
+ constitution= 15
+ dexterity= 20
+ charisma= 4
+Weapon Damage= 6
+ Sansa Stark Strikes First
+
+ Playing Round 1
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 1
+
+Player 1: Health	52
+
+
+Player 2: Health	59
+
+
+ Playing Round 2
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 2
+
+Player 1: Health	42
+
+
+Player 2: Health	59
+
+
+ Playing Round 3
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 3
+
+Player 1: Health	31
+
+
+Player 2: Health	59
+
+
+ Playing Round 4
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 4
+
+Player 1: Health	20
+
+
+Player 2: Health	59
+
+
+ Playing Round 5
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 5
+
+Player 1: Health	10
+
+
+Player 2: Health	59
+
+
+ Playing Round 6
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 6
+
+Player 1: Health	5
+
+
+Player 2: Health	59
+
+
+ Playing Round 7
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+Arya Stark Won the Match
+Do you want a Rematch?(Y/N)
+y
+Welcome to the game of Battle
+
+Battle without gears and weapons
+
+
+
+Player 1: Stats
+Tyrion Lannister
+ strength= 9
+ constitution= 12
+ dexterity= 10
+ charisma= 14
+
+Player 2: Stats
+Jaime Lannister
+ strength= 12
+ constitution= 10
+ dexterity= 14
+ charisma= 8
+Tyrion Lannister gets to strike First
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 1
+
+Player 1: Health	19
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 2
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 3
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 4
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 5
+
+Player 1: Health	14
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 6
+
+Player 1: Health	11
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 7
+
+Player 1: Health	9
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 8
+
+Player 1: Health	7
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 9
+
+Player 1: Health	5
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 10
+
+Player 1: Health	3
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 11
+
+Player 1: Health	1
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+Jaime Lannister Won the Match
+
+
+Player stats before equipping with addons
+
+Player 1: Stats
+ Sansa Stark
+ strength= 9
+ constitution= 12
+ dexterity= 10
+ charisma= 14
+
+Player 2: Stats
+Arya Stark
+ strength= 12
+ constitution= 10
+ dexterity= 14
+ charisma= 8
+
+After Equipping
+
+
+Equipment used by Player 1
+
+ Addon Sun Hat	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Latte	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Pepsi	 changeStrength= -4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Chai	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coco	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coco	 changeStrength= 0	 changeConstitution= -4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 0	 changeConstitution= -2	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 1
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= -1
+
+ Addon Orange Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Brown Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon Blue Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Clogs	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+Equipment used by Player 2
+
+ Addon Cloche Hat	 changeStrength= 0	 changeConstitution= 2	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Soup	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Ice Tea	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coco	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coke	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Soup	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= -4
+
+ Addon Coffee	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= -4
+
+ Addon Coke	 changeStrength= 0	 changeConstitution= -4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= -1	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 1 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon Slide Sandals	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 3 	 changeCharisma= 0
+
+Players Start with the following stats
+
+Player 1: Stats
+ Sansa Stark
+ strength= 15
+ constitution= 10
+ dexterity= 14
+ charisma= 18
+Weapon Damage= 6
+
+Player 2: Stats
+Arya Stark
+ strength= 20
+ constitution= 15
+ dexterity= 20
+ charisma= 4
+Weapon Damage= 6
+ Sansa Stark Strikes First
+
+ Playing Round 1
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 1
+
+Player 1: Health	52
+
+
+Player 2: Health	59
+
+
+ Playing Round 2
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 2
+
+Player 1: Health	42
+
+
+Player 2: Health	59
+
+
+ Playing Round 3
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 3
+
+Player 1: Health	31
+
+
+Player 2: Health	59
+
+
+ Playing Round 4
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 4
+
+Player 1: Health	20
+
+
+Player 2: Health	59
+
+
+ Playing Round 5
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 5
+
+Player 1: Health	10
+
+
+Player 2: Health	59
+
+
+ Playing Round 6
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 6
+
+Player 1: Health	5
+
+
+Player 2: Health	59
+
+
+ Playing Round 7
+  Sansa Stark fails to strike in the round
+
+ Arya Stark Strikes Successfully in the round
+
+Arya Stark Won the Match
+
+Battle without gears and weapons
+
+
+
+Player 1: Stats
+Tyrion Lannister
+ strength= 9
+ constitution= 12
+ dexterity= 10
+ charisma= 14
+
+Player 2: Stats
+Jaime Lannister
+ strength= 12
+ constitution= 10
+ dexterity= 14
+ charisma= 8
+Tyrion Lannister gets to strike First
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 1
+
+Player 1: Health	19
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 2
+
+Player 1: Health	17
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 3
+
+Player 1: Health	15
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 4
+
+Player 1: Health	13
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 5
+
+Player 1: Health	10
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 6
+
+Player 1: Health	8
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 7
+
+Player 1: Health	5
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+
+Stats after Round 8
+
+Player 1: Health	3
+
+
+Player 2: Health	24
+
+Tyrion Lannister gets to strike First
+ Tyrion Lannister fails to strike in the round
+
+ Jaime Lannister Strikes Successfully in the round
+
+Jaime Lannister Won the Match
+
+
+Player stats before equipping with addons
+
+Player 1: Stats
+ Sansa Stark
+ strength= 3
+ constitution= 14
+ dexterity= 6
+ charisma= 10
+
+Player 2: Stats
+Arya Stark
+ strength= 4
+ constitution= 5
+ dexterity= 8
+ charisma= 12
+
+After Equipping
+
+
+Equipment used by Player 1
+
+ Addon Sun Hat	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Cowboy Hat	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Latte	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Pepsi	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Chai	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coco	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coco	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Latte	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Chai	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coco	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Ice Tea	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Chai	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coke	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coffee	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 0	 changeConstitution= 2	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 1
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 1
+
+ Addon Orange Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Brown Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon Blue Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 1
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 1
+
+ Addon White belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Green Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 1	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Clogs	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Flip-Flops	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 3 	 changeCharisma= 0
+
+Equipment used by Player 2
+
+ Addon Cloche Hat	 changeStrength= 0	 changeConstitution= 2	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Cloche Hat	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Soup	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Ice Tea	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coco	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coke	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Soup	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coffee	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Coke	 changeStrength= 0	 changeConstitution= 4	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Pepsi	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Guam tar	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon Chai	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Pepsi	 changeStrength= 4	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Coffee	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 4
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 1	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 1 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon  Red Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+ Addon Orange Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Blue Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 1	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 1 	 changeCharisma= 0
+
+ Addon Purple Belt	 changeStrength= 2	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Black Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Blue Belt	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon White belt	 changeStrength= 0	 changeConstitution= 1	 changeDexterity= 0 	 changeCharisma= 0
+
+ Addon Slide Sandals	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 3 	 changeCharisma= 0
+
+ Addon Mules	 changeStrength= 0	 changeConstitution= 0	 changeDexterity= 2 	 changeCharisma= 0
+
+Players Start with the following stats
+
+Player 1: Stats
+ Sansa Stark
+ strength= 35
+ constitution= 30
+ dexterity= 17
+ charisma= 38
+Weapon Damage= 6
+
+Player 2: Stats
+Arya Stark
+ strength= 30
+ constitution= 27
+ dexterity= 25
+ charisma= 32
+Weapon Damage= 6
+ Sansa Stark Strikes First
+
+ Playing Round 1
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 1
+
+Player 1: Health	110
+
+
+Player 2: Health	111
+
+
+ Playing Round 2
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 2
+
+Player 1: Health	100
+
+
+Player 2: Health	103
+
+
+ Playing Round 3
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 3
+
+Player 1: Health	90
+
+
+Player 2: Health	95
+
+
+ Playing Round 4
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 4
+
+Player 1: Health	79
+
+
+Player 2: Health	92
+
+
+ Playing Round 5
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 5
+
+Player 1: Health	68
+
+
+Player 2: Health	84
+
+
+ Playing Round 6
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 6
+
+Player 1: Health	58
+
+
+Player 2: Health	76
+
+
+ Playing Round 7
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 7
+
+Player 1: Health	53
+
+
+Player 2: Health	68
+
+
+ Playing Round 8
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 8
+
+Player 1: Health	43
+
+
+Player 2: Health	60
+
+
+ Playing Round 9
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 9
+
+Player 1: Health	33
+
+
+Player 2: Health	51
+
+
+ Playing Round 10
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 10
+
+Player 1: Health	22
+
+
+Player 2: Health	42
+
+
+ Playing Round 11
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 11
+
+Player 1: Health	12
+
+
+Player 2: Health	34
+
+
+ Playing Round 12
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+
+Stats after Round 12
+
+Player 1: Health	1
+
+
+Player 2: Health	26
+
+
+ Playing Round 13
+  Sansa Stark Strikes Successfully in the round
+
+ Arya Stark Strikes Successfully in the round
+
+Arya Stark Won the Match
+Do you want a Rematch?(Y/N)
